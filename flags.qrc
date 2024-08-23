@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="flags">
+    <file>germany-64.png</file>
+    <file>portugal-64.png</file>
+    <file>netherlands-64.png</file>
+    <file>ireland-64.png</file>
+    <file>sweden-64 (2).png</file>
+    <file>czech republic-64 (1).png</file>
+    <file>south korea-64.png</file>
+    <file>pakistan-64.png</file>
+    <file>austria-64.png</file>
+    <file>india-64.png</file>
+    <file>czech republic-64.png</file>
+    <file>spain-64 (1).png</file>
+    <file>russia-64.png</file>
+    <file>sweden-64 (1).png</file>
+    <file>japan.svg</file>
+    <file>iraq.svg</file>
+    <file>japan-64.png</file>
+    <file>sweden-64.png</file>
+    <file>italy-64 (1).png</file>
+    <file>turkey-64.png</file>
+    <file>spain-64.png</file>
+    <file>france-64.png</file>
+    <file>united kingdom-64.png</file>
+    <file>china-64.png</file>
+    <file>italy-64.png</file>
+    <file>iran-64.png</file>
+  </qresource>
+</RCC>
